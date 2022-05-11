@@ -142,6 +142,7 @@ export class UserController {
     }
   }
 
+  //get loggedIn user details
   @httpGet("/details", TYPES.authMiddleware)
   async CurrentUser(
     @request() req: Request & { user: User },
