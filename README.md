@@ -17,5 +17,5 @@
 
 ## Project can be tested on the following
 
-- From POSTMAN using: https://moni-typescript-test.herokuapp.com/
-- POSTMAN DOCS: https://documenter.getpostman.com/view/5021068/UyxgJTMJ
+- On POSTMAN using: https://moni-typescript-test.herokuapp.com/
+- POSTMAN DOCS Link: https://documenter.getpostman.com/view/5021068/UyxgJTMJ
